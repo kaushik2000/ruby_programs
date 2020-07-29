@@ -1,0 +1,2 @@
+puts "Welcome to RUBY "
+
